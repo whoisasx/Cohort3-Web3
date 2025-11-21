@@ -1,0 +1,14 @@
+/Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/deps/serde-8897da1a6811d88e.d: /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/deps/libserde-8897da1a6811d88e.rlib: /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/deps/libserde-8897da1a6811d88e.rmeta: /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/adilshaikh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/adilshaikh/Desktop/Cohort/cohort-web3/borsh-sherde/target/debug/build/serde-ffe1212ea6083ba8/out
