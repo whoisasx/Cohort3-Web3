@@ -1,3 +1,12 @@
+[workspace]
+members = [
+    "borsh-sherde",
+    "concurrent",
+    "hello-async",
+    "minigrep",
+    "rust",
+]
+
 [package]
 name = "cohort-web3"
 version = "0.1.0"
