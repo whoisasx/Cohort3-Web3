@@ -1,7 +1,7 @@
 use trpl::{Either,Html};
 
 fn main() {
-    let args=std::env::args().collect();
+    let args:Vec<String>=std::env::args().collect();
 
     trpl::run(async {
         let title_1=page_title(&args[1]);
