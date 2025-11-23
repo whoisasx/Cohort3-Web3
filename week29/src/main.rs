@@ -19,6 +19,7 @@ fn main(){
         password:"adil4064".into(),
         age:5
     };
+    println!("{},{},{}",user.username,user.password,user.age);
     dbg!(&user);
     println!("{:?}",user);
 }

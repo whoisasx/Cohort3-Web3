@@ -24,6 +24,7 @@ fn main(){
         salary:4
     };
 
+    println!("{}",user1.username);
     let usersum=sum(user1,user2);
     println!("{:?}",usersum);
 }
