@@ -1,10 +1,11 @@
+cargo-features = ["edition2024"]
 [workspace]
 members = [
     "borsh-sherde",
     "concurrent",
     "hello-async",
     "minigrep",
-    "rust", "week28", "week29",
+    "rust", "week28", "week29", "week31",
 ]
 
 [package]
