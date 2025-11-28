@@ -5,7 +5,7 @@ members = [
     "concurrent",
     "hello-async",
     "minigrep",
-    "rust", "week28", "week29", "week31", "week35",
+    "rust", "week28", "week29", "week31", "week35", "week37",
 ]
 
 [package]
